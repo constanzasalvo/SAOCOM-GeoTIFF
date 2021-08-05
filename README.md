@@ -3,7 +3,8 @@ _Automatically convert SAOCOM L1C to GeoTIFF in one click using SNAP._
 
 ### Requirements 📋
 _SNAP v8 or higher._
-_OS Windows7 or higher._
+_OS Windows7 or higher. 64-bits._
+
 
 ### Easy Use 🔧
 * 1-Download SAOCOM L1C images in "Descargado" Folder.
@@ -15,7 +16,7 @@ _Convierte automáticamente SAOCOM L1C a GeoTIFF en solo un click usando SNAP co
 
 ### Requerimientos 📋
 _SNAP v8 o superior._
-_Sistema operativo Windows7 o superior._
+_Sistema operativo Windows7 o superior. 64 bits._
 
 ### Uso Facil 🔧
 * 1-Incorpore las imagenes en la carpeta "Descargado".
